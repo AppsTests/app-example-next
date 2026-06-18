@@ -4,7 +4,7 @@
 
 Пример приложения [Next.js](https://nextjs.org/), которое можно развернуть в **Timeweb Cloud Apps** без настройки.
 
-:tada: [Демо](twc-app-example-next.twc1.net)
+:tada: [Демо](https://twc-app-example-next.twc1.net)
 
 :rocket: [Создать свой Apps](https://timeweb.cloud/my/apps/create)
 
